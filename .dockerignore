@@ -1,0 +1,7 @@
+.git
+.github
+out
+bin
+*.class
+sonar-project.properties
+README.md
